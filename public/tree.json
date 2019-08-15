@@ -1,0 +1,22 @@
+{
+    "name": "我是根节点",
+    "level": 0,
+    "expanded": true,
+    "children": [
+        {
+            "name": "我是1级1节点",
+            "level": 1,
+            "expanded": false,
+            "children": [
+                {
+                    "name": "11节点",
+                    "level": 2
+                }
+            ]
+        },
+        {
+            "name": "我是1级2节点",
+            "level": 1
+        }
+    ]
+}
